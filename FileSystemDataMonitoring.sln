@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemDataMonitoring.UI", "FileSystemDataMonitoring.UI\FileSystemDataMonitoring.UI.csproj", "{0D1AEFCB-47BA-4A3F-A467-21D7240EFEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemDataMonitoring.Contracts", "FileSystemDataMonitoring.Contracts\FileSystemDataMonitoring.Contracts.csproj", "{2EC365BA-65D1-48FC-BA44-755B8A2DE9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemDataMonitoring.SimpleDataProcessors", "FileSystemDataMonitoring.SimpleDataProcessors\FileSystemDataMonitoring.SimpleDataProcessors.csproj", "{741551A4-61E3-4F25-95B8-DEE3B6CF2F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemDataMonitoring.Domain", "FileSystemDataMonitoring.Domain\FileSystemDataMonitoring.Domain.csproj", "{FC71A732-1FCF-45CB-A7F4-80381EAD95D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemDataMonitoring.XmlDataProcessor", "FileSystemDataMonitoring.XmlDataProcessor\FileSystemDataMonitoring.XmlDataProcessor.csproj", "{861F6955-8E81-470D-9A71-CCFD8269381B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1AEFCB-47BA-4A3F-A467-21D7240EFEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1AEFCB-47BA-4A3F-A467-21D7240EFEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1AEFCB-47BA-4A3F-A467-21D7240EFEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1AEFCB-47BA-4A3F-A467-21D7240EFEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC365BA-65D1-48FC-BA44-755B8A2DE9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC365BA-65D1-48FC-BA44-755B8A2DE9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC365BA-65D1-48FC-BA44-755B8A2DE9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC365BA-65D1-48FC-BA44-755B8A2DE9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741551A4-61E3-4F25-95B8-DEE3B6CF2F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741551A4-61E3-4F25-95B8-DEE3B6CF2F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741551A4-61E3-4F25-95B8-DEE3B6CF2F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741551A4-61E3-4F25-95B8-DEE3B6CF2F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC71A732-1FCF-45CB-A7F4-80381EAD95D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC71A732-1FCF-45CB-A7F4-80381EAD95D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC71A732-1FCF-45CB-A7F4-80381EAD95D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC71A732-1FCF-45CB-A7F4-80381EAD95D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861F6955-8E81-470D-9A71-CCFD8269381B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861F6955-8E81-470D-9A71-CCFD8269381B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861F6955-8E81-470D-9A71-CCFD8269381B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861F6955-8E81-470D-9A71-CCFD8269381B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

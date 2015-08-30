@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileSystemDataMonitoring.UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DirectoryToScanPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Credit Suisse\data</Value>
+    </Setting>
+    <Setting Name="ProcessorsCodeDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Plugins</Value>
+    </Setting>
+    <Setting Name="DirectoryScanInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="ProcessorsToUse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TXT|CSV|XML</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
